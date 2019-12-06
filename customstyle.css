@@ -1,0 +1,218 @@
+.custombody {
+    background-color: black;
+    color: white;
+}
+
+.customh1 {
+    font-size: 2.5rem;
+    color: white;
+    color: #00bfff;
+    text-shadow: 0 0 4px black, 0 0 4px black, 0 0 4px black, 1px 0 black, -1px 0 black, 0 1px black, 0 -1px black ;
+}
+
+.customh2 {
+    font-size: 2rem;
+    color: white;
+    color: #00bfff;
+    text-shadow: 0 0 4px black, 0 0 4px black, 0 0 4px black, 1px 0 black, -1px 0 black, 0 1px black, 0 -1px black ;
+}
+
+.customh3 {
+    font-size: 1.5rem;
+    color: white;
+    color: #00bfff;
+    text-shadow: 0 0 4px black, 0 0 4px black, 0 0 4px black, 1px 0 black, -1px 0 black, 0 1px black, 0 -1px black ;
+}
+
+.margin0 {
+    margin: 0 0;
+}
+
+.custommain {
+    margin: 1rem;
+    margin-top: 69px;
+}
+
+.customcard {
+    background-color: #303030;
+}
+
+.customcard2 {
+    background-color: #3a3a3a;
+}
+
+.navbar {
+    background-color: #303030;
+}
+
+.nav-link:hover, .navbar-brand:hover {
+    color: #00bfff;
+    text-shadow: 0 0 4px black, 0 0 4px black, 0 0 4px black, 1px 0 black, -1px 0 black, 0 1px black, 0 -1px black ;
+}
+
+.custompadding {
+    padding: 1rem;
+    background-repe;
+}
+
+.customjumbo {
+    background-color: #303030;
+}
+
+.my-4 {
+    background-color: white;
+}
+
+#headingcrusader {
+    background-image: url(Bilder/Stanton-crusader-orbit-3.4.1_final.jpg);
+    background-attachment: fixed;
+    background-size: 100%;
+}
+
+#headingdelamar {
+    background-image: url(Bilder/Delamar_final.jpg);
+    background-attachment: fixed;
+    background-size: 100%;
+}
+
+#headinghurston {
+    background-image: url(Bilder/2560px-Hurston-orbit-3.4.1_final.jpg);
+    background-attachment: fixed;
+    background-size: 100%;
+}
+
+#headingarccorp {
+    background-image: url(Bilder/1920px-ArcCorp_\(3.5\)_final.png);
+    background-attachment: fixed;
+    background-size: 100%;
+}
+
+#headingmicrotech {
+    background-image: url(Bilder/Microtech-orbit-prerelease_final.png);
+    background-attachment: fixed;
+    background-size: 100%;
+}
+
+#headingdaymar {
+    background-image: url(Bilder/2560px-Stanton-crusader-daymar-orbit-3.4.1_final.jpg);
+    background-attachment: fixed;
+    background-size: 100%;
+}
+
+#headingcellin {
+    background-image: url(Bilder/2560px-Stanton-crusader-cellin-orbit-3.4.1_final.jpg);
+    background-attachment: fixed;
+    background-size: 100%;
+}
+
+#headingyela {
+    background-image: url(Bilder/2560px-Stanton-crusader-yela-orbit-3.4.1_final.jpg);
+    background-attachment: fixed;
+    background-size: 100%;
+}
+
+#headingolisar {
+    background-image: url(Bilder/Port_Olisar_far_away.png);
+    background-attachment: fixed;
+    background-size: 100%;
+    background-position-y: -250px;
+}
+
+#headingArial {
+    background-image: url(Bilder/2560px-Stanton-hurston-arial-orbit-3.4.1_final.jpg);
+    background-attachment: fixed;
+    background-size: 100%;
+}
+
+#headingmicrotech {
+    background-image: url(Bilder/Microtech-orbit-prerelease_final.png);
+    background-attachment: fixed;
+    background-size: 100%;
+}
+
+#headingAberdeen {
+    background-image: url(Bilder/2560px-Aberdeen_orbit_3.4.1_final.jpg);
+    background-attachment: fixed;
+    background-size: 100%;
+}
+
+#headingMagda {
+    background-image: url(Bilder/2560px-Magda-orbit-3.4.1_final.jpg);
+    background-attachment: fixed;
+    background-size: 100%;
+}
+
+#headingIta {
+    background-image: url(Bilder/2560px-Ita_orbit_3.4.1_final.png);
+    background-attachment: fixed;
+    background-size: 100%;
+}
+
+#headingLorville {
+    background-image: url(Bilder/1920px-Lorville_3.3.6_Raoul.png);
+    background-attachment: fixed;
+    background-size: 100%;
+}
+
+#headingarea18 {
+    background-image: url(Bilder/1920px-RSI-Arccorp_03-Min.jpg);
+    background-attachment: fixed;
+    background-size: 100%;
+}
+
+#headingWala {
+    background-image: url(Bilder/2560px-Arccorp-wala-orbit-3.5_final.jpg);
+    background-attachment: fixed;
+    background-size: 100%;
+}
+
+#headingLyria {
+    background-image: url(Bilder/2560px-Arccorp-lyria-orbit-3.5_final.jpg);
+    background-attachment: fixed;
+    background-size: 100%;
+}
+
+#headinglevski {
+    background-image: url(Bilder/NyxDelamarLevskiMusain.jpg);
+    background-attachment: fixed;
+    background-size: 100%;
+}
+
+.customcardtitle {
+    color: #00bfff;
+    font-size: 2rem;
+    text-shadow: 0 0 4px black, 0 0 4px black, 0 0 4px black, 1px 0 black, -1px 0 black, 0 1px black, 0 -1px black ;
+    text-decoration: none;
+}
+
+.customcardtitle:hover {
+    color: #00bfff;
+    font-size: 2rem;
+    text-shadow: 0 0 4px black, 0 0 4px black, 0 0 4px black, 1px 0 black, -1px 0 black, 0 1px black, 0 -1px black ;
+}
+
+@media (min-width: 50em) {
+    .card-columns {
+        -webkit-column-count: 2;
+        -moz-column-count: 2;
+        column-count: 2;
+    }
+}
+
+@media (min-width: 100em) {
+    .card-columns {
+        -webkit-column-count: 3;
+        -moz-column-count: 3;
+        column-count: 3;
+    }
+}
+
+@media (max-width: 50em) {
+    .card-columns {
+        -webkit-column-count: 1;
+        -moz-column-count: 1;
+        column-count: 1;
+    }
+}
+
+
